@@ -6,6 +6,7 @@
   <img src="https://img.shields.io/badge/currently-slacking-yellow.svg" alt="badge" />
 </p>
 
+</br>
 <p>
   I am currently pursuing Computer Science @ <a href="https://www.comp.nus.edu.sg/programmes/ug/cs/">National University of Singapore</a> and will be graduating
   in 2024! :zombie:
