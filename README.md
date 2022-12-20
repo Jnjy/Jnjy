@@ -22,10 +22,10 @@
 </br>
 <h4 align="left">Feel free to connect with me:</h4>
 <p align="left">
-  <a href="https://linkedin.com/in/https://www.linkedin.com/in/ng-jin-yuan/" target="blank">
+  <a href="https://www.linkedin.com/in/ng-jin-yuan/" target="blank">
     <img align="left" alt="Jin Yuan's LinkedIn" width="30px" src="https://skillicons.dev/icons?i=linkedin" />
   </a>
-  <a>
+  <a href="https://www.instagram.com/jeffrey_njy/">
     <img align="left" alt="Jin Yuan's Instagram" width="30px" src="https://skillicons.dev/icons?i=instagram" />
   </a>
 </p>
