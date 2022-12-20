@@ -1,4 +1,6 @@
-<h1 align="center">Hi, Jin Yuan here! 👋</h1>
+<h1 align="center">Hi, Jin Yuan here! 
+<img src="https://media.tenor.com/SNL9_xhZl9oAAAAi/waving-hand-joypixels.gif" alt="wave hand" width="30px" />
+</h1>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=jnjy&label=Profile%20views&color=0e75b6&style=flat" alt="jnjy" />
@@ -9,10 +11,12 @@
 </br>
 <p>
   I am currently pursuing Computer Science @ <a href="https://www.comp.nus.edu.sg/programmes/ug/cs/">National University of Singapore</a> and will be graduating
-  in 2024! :zombie:
+  in 2024! 
+  <img src="https://media.tenor.com/NCRHhqkXrJYAAAAi/programmers-go-internet.gif" alt="programming dude" width="20px" />
 </p>
 <p>
-  Constantly seeking for project based and internship opportunities in the area of Web Development and Artificial Intelligence :computer:
+  Constantly seeking for project based and internship opportunities in the area of Web Development and Artificial Intelligence 
+  <img src="https://media.tenor.com/n53f5g-plM0AAAAi/emo.gif" alt="robot" width="20px" />
 </p>
 
 </br>
