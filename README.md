@@ -12,7 +12,7 @@
   in 2024! :zombie:
 </p>
 <p>
-  Constantly seeking project based and internship opportunities in the area of Web Development and Artificial Intelligence :computer:
+  Constantly seeking for project based and internship opportunities in the area of Web Development and Artificial Intelligence :computer:
 </p>
 
 </br>
