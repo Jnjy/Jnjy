@@ -14,7 +14,7 @@
   <img src="https://media.tenor.com/NCRHhqkXrJYAAAAi/programmers-go-internet.gif" alt="programming dude" width="20px" />
 </p>
 <p>
-  Constantly seeking for project based and internship opportunities in the area of Web Development and Artificial Intelligence 
+  Constantly seeking for project based and internship opportunities in the area of Backend Development and Artificial Intelligence 
   <img src="https://media.tenor.com/n53f5g-plM0AAAAi/emo.gif" alt="robot" width="20px" />
 </p>
 
