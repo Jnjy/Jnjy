@@ -9,12 +9,11 @@
 
 </br>
 <p>
-  I am currently pursuing Computer Science @ <a href="https://www.comp.nus.edu.sg/programmes/ug/cs/">National University of Singapore</a> and will be graduating
-  in 2024! 
+  Computer Science student graduated from <a href="https://www.comp.nus.edu.sg/programmes/ug/cs/">National University of Singapore</a>! 
   <img src="https://media.tenor.com/NCRHhqkXrJYAAAAi/programmers-go-internet.gif" alt="programming dude" width="20px" />
 </p>
-<p>
-  Constantly seeking for project based and internship opportunities in the area of Backend Development and Artificial Intelligence 
+<p> 
+  Interested in learning more about the field of Software Engineering and Artificial Intelligence. Always down for a session to learn more, so hit me up!
   <img src="https://media.tenor.com/n53f5g-plM0AAAAi/emo.gif" alt="robot" width="20px" />
 </p>
 
@@ -33,13 +32,14 @@
 </br>
 <h4 align="left">Languages:</h4>
 <img align="left" alt="Java" width="30px" src="https://skillicons.dev/icons?i=java" />
+<img align="left" alt="C" width="30px" src="https://skillicons.dev/icons?i=c" />
+<img align="left" alt="CPP" width="30px" src="https://skillicons.dev/icons?i=cpp" />
+<img align="left" alt="Java" width="30px" src="https://skillicons.dev/icons?i=cs" />
 <img align="left" alt="JS" width="30px" src="https://skillicons.dev/icons?i=js" />
 <img align="left" alt="TS" width="30px" src="https://skillicons.dev/icons?i=ts" />
 <img align="left" alt="HTML" width="30px" src="https://skillicons.dev/icons?i=html" />
 <img align="left" alt="CSS" width="30px" src="https://skillicons.dev/icons?i=css" />
 <img align="left" alt="SCSS" width="30px" src="https://skillicons.dev/icons?i=scss" />
-<img align="left" alt="C" width="30px" src="https://skillicons.dev/icons?i=c" />
-<img align="left" alt="CPP" width="30px" src="https://skillicons.dev/icons?i=cpp" />
 <img align="left" alt="Python" width="30px" src="https://skillicons.dev/icons?i=python" />
 <img align="left" alt="Dart" width="30px" src="https://skillicons.dev/icons?i=dart" />
 
@@ -52,6 +52,9 @@
 <img align="left" alt="MongoDB" width="30px" src="https://skillicons.dev/icons?i=mongodb" />
 <img align="left" alt="Flutter" width="30px" src="https://skillicons.dev/icons?i=flutter" />
 <img align="left" alt="NodeJS" width="30px" src="https://skillicons.dev/icons?i=nodejs" />
+<img align="left" alt="NodeJS" width="30px" src="https://skillicons.dev/icons?i=dotnet" />
+<img align="left" alt="NodeJS" width="30px" src="https://skillicons.dev/icons?i=docker" />
+<img align="left" alt="NodeJS" width="30px" src="https://skillicons.dev/icons?i=kubernetes" />
 <img align="left" alt="Arduino" width="30px" src="https://skillicons.dev/icons?i=arduino" />
 
 </br>
@@ -59,4 +62,7 @@
 <h4 align="left">Here's my not so impressive GitHub stats :hushed:</h4>
 <p>
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=jnjy&show_icons=true&locale=en" alt="jnjy" />
+</p>
+<p>
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jnjy&theme=dark&hide_border=false" alt="jnjy" />
 </p>
